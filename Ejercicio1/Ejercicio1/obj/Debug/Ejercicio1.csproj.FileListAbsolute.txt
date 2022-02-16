@@ -1,0 +1,8 @@
+C:\Users\marco\source\repos\Tema5\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.dll
+C:\Users\marco\source\repos\Tema5\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\marco\source\repos\Tema5\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.LabelTextBox.resources
+C:\Users\marco\source\repos\Tema5\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\marco\source\repos\Tema5\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Tema5\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.dll
+C:\Users\marco\source\repos\Tema5\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\marco\source\repos\Tema5\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
